@@ -9,7 +9,7 @@ calculations based on 16 Sutras.
 A simple digital multiplier architecture based on the Urdhva Triyakbhyam (Vertically and Cross wise) Sutra
 is being dealt with it in our problem statement. Further, the Verilog HDL coding (Mixed level modelling)
 of the mentioned Sutra for 4x4 bits multiplication and their FPGA implementation by Xilinx Synthesis Tool 
-on Spartan kit have been done and output has been displayed on LED’s of Spartan kit.
+on Spartan kit has been done and output has been displayed on LEDâ€™s of Spartan kit.
 
 4x4 BINARY MULTIPLIER:
 A basic multiplier consists of three parts: partial product generation, partial product addition and final addition.
